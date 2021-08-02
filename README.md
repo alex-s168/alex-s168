@@ -30,9 +30,6 @@ I'm Alex aka. super_craft_alex! I am a developer who tries to make cool stuff. I
 [![paypalmeCASH](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge)](https://paypal.me/thejakobcraft)
 [![iwantacoffeeCASH](https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=for-the-badge)](https://www.buymeacoffee.com/thejakobcraft)
 
-## 🎶 Recent Spotify Activity
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tu5zsz52b6xy5t4ucml56cvlzm&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=31tu5zsz52b6xy5t4ucml56cvlzm&redirect=true)
-
 ### Happy Coding
 ***
 JakobKampichler™ Development
