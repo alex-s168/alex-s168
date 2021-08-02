@@ -4,17 +4,16 @@ I'm Alex aka. super_craft_alex! I am a developer who tries to make cool stuff. I
 ## 🔧 Skills and Software
 ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=yellowgreen)
+<br>
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/EDITOR-ATOM-ligthgreen?style=for-the-badge)
+![](https://img.shields.io/badge/EDITOR-ECLIPSE-orange?style=for-the-badge)
+<br>
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Shell-CMD-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=informational)
-
-## &#x1f4c8; GitHub Stats
-[![jc git staz](https://github-readme-stats.vercel.app/api?username=jkampich1411&show_icons=true&theme=synthwave&hide_border=true&count_private=true)](https://thejakobcraft.xyz)
-[![jcGITstaz](https://github-readme-stats.vercel.app/api/top-langs/?username=jkampich1411&theme=synthwave&hide_border=true&langs_count=3&exclude-repo=jcquest_bs)](https://thejakobcraft.xyz)
-[![jcSHrep](https://github-readme-stats.vercel.app/api/pin/?username=jkampich1411&repo=jbot&show_owner=true&theme=synthwave&hide_border=true)](https://github.com/jkampich1411/jbot)
 
 ## 📱 My Social Media:
 [![yt](https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white)]([1])
