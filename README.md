@@ -1,4 +1,4 @@
-## Hi there! <img src="https://github.com/jkampich1411/jkampich1411/blob/main/gif/wave.gif" width="30px">
+## Hi there! 
 I'm Alexander aka. super_craft_alex! I am a developer who tries to make cool stuff. I am from Austria. I do not work anywhere right now, but I go to school.
 
 ## 🔧 Skills and Software
@@ -11,7 +11,7 @@ I'm Alexander aka. super_craft_alex! I am a developer who tries to make cool stu
 <br>
 ![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Code-PHP-informational?style=for-the-badge&logo=python&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Code-PHP-informational?style=for-the-badge&logo=php&logoColor=white&color=informational)
 <br>
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Shell-CMD-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=blueviolet)
