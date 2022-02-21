@@ -15,9 +15,6 @@ I'm Alexander aka. super_craft_alex! I am a developer who tries to make cool stu
 <br>
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Shell-CMD-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=blueviolet)
-<br>
-![](https://img.shields.io/badge/Tools-MetaSploit-informational?style=for-the-badge&color=informational)
-![](https://img.shields.io/badge/Tools-Ghidra-informational?style=for-the-badge&color=informational)
 
 ## 📱 My Social Media
 [![](https://img.shields.io/badge/Social&nbsp;Media-Youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC-7eYAI18kCe9__wpdZcfaA)
