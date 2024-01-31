@@ -15,7 +15,7 @@ _start:
   movd mm0, [a + 8]
   movd mm1, [b + 8]
   paddb mm0, mm1
-  movq [o + 8], mm0
+  movd [o + 8], mm0
 
   ; = 2   - 2
   mov ax, [a + 12]
