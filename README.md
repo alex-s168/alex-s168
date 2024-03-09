@@ -20,8 +20,7 @@ _start:
   ; = 2   - 2
   mov ax, [a + 12]
   mov bx, [b + 12]
-  add al, bl
-  add ah, bh
+  add ax, bx
   mov [o + 12], ax
 
   mov eax, 0x4
