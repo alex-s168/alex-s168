@@ -1,4 +1,4 @@
-Hey, I'm Alex and I like making programming languages.
+Hey, I'm Alex and I like making compilers
 
 ```asm
 bits 32
@@ -37,6 +37,3 @@ b:
   db 36,50,22,16,43,29,50,16,87,58,51,60,23,5,0,0
 ```
 (assembles with NASM and runs on Pentium MMX or better x86 machines with Linux)
-
-## Links:
-- [Website](http://207.180.202.42/alex/)
