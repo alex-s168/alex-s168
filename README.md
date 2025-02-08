@@ -1,4 +1,4 @@
-Hey, I'm Alex and I like making compilers
+(obsessed with making compilers)
 
 ```asm
 bits 32
